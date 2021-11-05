@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <ChatRoom/>
 </template>
 
 <script>
